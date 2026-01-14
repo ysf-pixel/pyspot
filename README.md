@@ -154,5 +154,6 @@ Give a ⭐️ if this project helped you!
 ---
 
 <div align="center">
-Made with ❤️ and Python
+Made with Python by some one who is sick of ads
+
 </div>
